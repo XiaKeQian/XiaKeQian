@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI research
 - 📫 How to reach me: yulinkun@ruri.waseda.jp
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm actually a Chinese Japanese.
+- ⚡ Fun fact: why im writing this?
 
 <!---
 XiaKeQian/XiaKeQian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
